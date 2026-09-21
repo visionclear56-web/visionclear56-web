@@ -20,7 +20,7 @@ The portfolio is organized around three connected disciplines:
 🛡️ Governance & Assurance — Govern access, risk, controls, and remediation.
 📊 Business & Product Analysis — Analyze identity problems, requirements, metrics, and outcomes.
 
-Much of this work takes place inside a common simulated enterprise:
+Much of this work takes place inside a common simulated enterprise environment:
 
 🏢 QUALITYCORP
 
@@ -28,9 +28,9 @@ One enterprise. Multiple identity problems. One connected body of work.
 
 QualityCorp is the simulated enterprise environment that connects the projects in this portfolio.
 
-Instead of treating IAM, IGA, security governance, audit, cloud, automation, analytics, AI governance, and business analysis as unrelated exercises, QualityCorp provides a common enterprise environment in which those capabilities can be designed, implemented, governed, tested, analyzed, and improved.
+Rather than treating IAM, IGA, security governance, audit, cloud, automation, analytics, AI governance, and business analysis as unrelated exercises, QualityCorp provides a common enterprise environment in which those capabilities can be designed, implemented, governed, tested, analyzed, and improved.
 
-The environment is designed to evolve as the portfolio evolves—from Active Directory and Microsoft Entra identity operations to cloud identity, CIAM, AI governance, analytics, automation, and agent/workload identity.
+The environment evolves with the portfolio—from Active Directory and Microsoft Entra identity operations to cloud identity, CIAM, AI governance, analytics, automation, and agent/workload identity.
 
 Enterprise Identity Lifecycle
 
@@ -102,9 +102,9 @@ CIAM • Authentication Journeys • Business Requirements • Process Analysis 
 
 ⸻
 
-🌐 QUALITYCORP — CONTINUING DEVELOPMENT
+🗺️ ROADMAP
 
-QualityCorp is designed to grow as new enterprise identity problems are introduced and solved.
+QualityCorp will continue to expand as new enterprise identity problems are introduced and solved.
 
 Current and developing capabilities include:
 
@@ -124,7 +124,7 @@ Current and developing capabilities include:
 * Cloud identity and infrastructure automation
 * AI agent, workload, and runtime identity governance
 
-Future QualityCorp projects will extend the environment as new technologies, identity patterns, and governance requirements are introduced.
+Future projects will extend QualityCorp into Azure and AWS as cloud identity, federation, workload identity, infrastructure-as-code, and cross-cloud governance capabilities are developed.
 
 ⸻
 
