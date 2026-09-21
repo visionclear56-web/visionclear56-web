@@ -12,7 +12,7 @@ IDENTITY, END TO END.
 
 Engineering the identity. Governing the access. Analyzing the business impact.
 
-Vision Clear is my professional portfolio exploring identity across the full lifecycle—from technical implementation and access governance to risk analysis, business requirements, and data-driven decision-making.
+Vision Clear is my professional portfolio focused on enterprise identity across the full lifecycle—from technical implementation and access governance to risk analysis, business requirements, and data-driven decision-making.
 
 The portfolio is organized around three connected disciplines:
 
@@ -20,11 +20,27 @@ The portfolio is organized around three connected disciplines:
 🛡️ Governance & Assurance — Govern access, risk, controls, and remediation.
 📊 Business & Product Analysis — Analyze identity problems, requirements, metrics, and outcomes.
 
+Much of this work takes place inside a common simulated enterprise:
+
+🏢 QUALITYCORP
+
+One enterprise. Multiple identity problems. One connected body of work.
+
+QualityCorp is the simulated enterprise environment that connects the projects in this portfolio.
+
+Instead of treating IAM, IGA, security governance, audit, cloud, automation, analytics, AI governance, and business analysis as unrelated exercises, QualityCorp provides a common enterprise environment in which those capabilities can be designed, implemented, governed, tested, analyzed, and improved.
+
+The environment is designed to evolve as the portfolio evolves—from Active Directory and Microsoft Entra identity operations to cloud identity, CIAM, AI governance, analytics, automation, and agent/workload identity.
+
+Enterprise Identity Lifecycle
+
+Business Need → Identity Design → Implementation → Governance → Monitoring → Analysis → Remediation → Validation
+
 ⸻
 
-🔧 Identity Engineering
+🔧 IDENTITY ENGINEERING
 
-Technical implementation, configuration, and automation of identity lifecycle processes.
+Technical implementation, configuration, and automation of identity lifecycle processes within the QualityCorp environment.
 
 Featured Projects
 
@@ -39,9 +55,9 @@ Microsoft Entra ID • Active Directory • PowerShell • JML • RBAC • SSO 
 
 ⸻
 
-🛡️ Governance & Assurance
+🛡️ GOVERNANCE & ASSURANCE
 
-Identity governance, access assurance, risk analysis, control validation, and remediation.
+Identity governance, access assurance, risk analysis, control validation, and remediation across the enterprise environment.
 
 Featured Projects
 
@@ -62,13 +78,15 @@ IGA • Access Reviews • Entitlement Analysis • RBAC • SoD • JML Governa
 
 ⸻
 
-📊 Business & Product Analysis
+📊 BUSINESS & PRODUCT ANALYSIS
 
-Identity systems also create business processes, customer experiences, operational data, and measurable outcomes.
+Enterprise identity is also a business system.
 
-CIAM Product Analyst Project — In Development
+Authentication, provisioning, access decisions, customer journeys, governance processes, and security controls generate business problems and operational data that must be analyzed, translated into requirements, and measured.
 
-A customer identity analysis project following the complete product-analysis workflow:
+CIAM Product Analysis — In Development
+
+Extending the QualityCorp environment into customer identity and access management using a product-analysis workflow:
 
 Current State → Problem → Metrics → Requirements → User Stories → Acceptance Criteria → Engineering Fix → Validation → Reporting / Backlog
 
@@ -76,7 +94,7 @@ Focus areas include authentication journeys, OTP/login behavior, customer fricti
 
 Business Intelligence / Power BI — In Development
 
-Applying SQL, data analysis, Power BI, and operational metrics to identity and security data to support data-driven decision-making.
+Applying SQL, data analysis, Power BI, and operational metrics to QualityCorp identity and security data to support data-driven decision-making.
 
 Business & Data Focus
 
@@ -84,35 +102,33 @@ CIAM • Authentication Journeys • Business Requirements • Process Analysis 
 
 ⸻
 
-🧪 QUALITYCORP ENTERPRISE LAB
+🌐 QUALITYCORP — CONTINUING DEVELOPMENT
 
-One enterprise. Multiple identity problems. One connected body of work.
+QualityCorp is designed to grow as new enterprise identity problems are introduced and solved.
 
-QualityCorp is the simulated enterprise environment behind much of this portfolio.
-
-Rather than treating IAM, governance, audit, automation, analytics, and business analysis as unrelated exercises, QualityCorp connects them through a common enterprise environment.
-
-Projects span:
+Current and developing capabilities include:
 
 * Active Directory and Microsoft Entra identity lifecycle management
+* Joiner, mover, and leaver operations
 * Automated provisioning and deprovisioning
 * RBAC design and access assignment
-* Identity access reviews
+* SSO and authentication
+* Identity access reviews and certifications
 * SoD and entitlement analysis
 * IAM risk reporting
 * Power Platform governance automation
 * IT audit and control validation
 * AI governance
 * CIAM product and business analysis
-* AI agent/runtime identity governance
+* Business intelligence and identity analytics
+* Cloud identity and infrastructure automation
+* AI agent, workload, and runtime identity governance
 
-Identity Lifecycle
-
-Business Requirement → Identity Design → Implementation → Governance → Monitoring → Analysis → Remediation → Validation
+Future QualityCorp projects will extend the environment as new technologies, identity patterns, and governance requirements are introduced.
 
 ⸻
 
-🎓 Education & Certifications
+🎓 EDUCATION & CERTIFICATIONS
 
 Academic Education
 
@@ -140,9 +156,9 @@ CompTIA Security+ • AWS Certified Cloud Practitioner • Microsoft Azure Funda
 
 🚀 NOW / NEXT
 
-Currently deepening hands-on capability across:
+Continuing to expand the QualityCorp environment while deepening hands-on capability across:
 
-IAM Engineering • Microsoft Entra • PowerShell • Microsoft Graph • APIs • Python • Terraform • CIAM • Business Intelligence • AI/Agent Identity
+IAM Engineering • Microsoft Entra • PowerShell • Microsoft Graph • APIs • Python • Terraform • CIAM • Business Intelligence • Cloud Identity • AI/Agent Identity
 
 ⸻
 
