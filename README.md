@@ -62,6 +62,9 @@ Identity governance, access assurance, risk analysis, control validation, and re
 
 ### Featured Projects
 
+- [**GRC / IAM Portfolio — RBAC Matrix & Control Mapping**](https://github.com/visionclear56-web/grc-iam-portfolio-)  
+  Role-based access control matrix mapping job roles, applications, and access levels with governance and compliance control alignment.
+
 - [**Identity Governance & Administration Lab**](https://github.com/visionclear56-web/identity-governance-lab)  
   Enterprise identity governance covering access, entitlement analysis, lifecycle controls, and governance processes.
 
@@ -79,7 +82,7 @@ Identity governance, access assurance, risk analysis, control validation, and re
 
 ### Governance Focus
 
-`IGA` • `Access Reviews` • `Entitlement Analysis` • `RBAC` • `SoD` • `JML Governance` • `ITGC` • `Control Testing` • `Audit Evidence` • `Remediation Validation` • `NIST` • `AI Governance`
+`IGA` • `RBAC` • `Access Reviews` • `Entitlement Analysis` • `SoD` • `JML Governance` • `ITGC` • `Control Testing` • `Audit Evidence` • `Remediation Validation` • `NIST` • `AI Governance`
 
 ---
 
