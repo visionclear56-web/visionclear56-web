@@ -44,9 +44,9 @@ Technical implementation, configuration, and automation of identity lifecycle pr
 
 Featured Projects
 
-* Identity Operations & Configuration Management Lab
+* ⁠Identity Operations & Configuration Management Lab
     Identity lifecycle operations, configuration management, automation, and enterprise IAM administration.
-* IAM Operations: Access Reviews & SSO
+* ⁠IAM Operations: Access Reviews & SSO
     Microsoft Entra identity operations connecting access governance with authentication and application access.
 
 Technical Focus
@@ -61,19 +61,19 @@ Identity governance, access assurance, risk analysis, control validation, and re
 
 Featured Projects
 
-* GRC / IAM Portfolio — RBAC Matrix & Control Mapping
+* ⁠GRC / IAM Portfolio — RBAC Matrix & Control Mapping
     Role-based access control matrix mapping job roles, applications, and access levels with governance and compliance control alignment.
-* Identity Governance & Administration Lab
+* ⁠Identity Governance & Administration Lab
     Enterprise identity governance covering access, entitlement analysis, lifecycle controls, and governance processes.
-* IAM Operations: Access Reviews & SSO
+* ⁠IAM Operations: Access Reviews & SSO
     Access review and identity assurance work connecting operational IAM with governance.
-* GRC Security Audits
+* ⁠GRC Security Audits
     Security control testing, audit evidence, findings, remediation, and assurance activities.
-* QualityCare AI Governance Platform
+* ⁠QualityCare AI Governance Platform
     End-to-end AI governance platform integrating GRC, IAM, NIST AI RMF, and Microsoft Power Platform automation.
-* QualityCorp AI Governance & Assurance Operations — 🚧 In Progress
+* ⁠QualityCorp AI Governance & Assurance Operations — 🚧 In Progress
     Operationalizing post-deployment AI governance through continuous monitoring, threshold detection, ServiceNow findings, remediation, control retesting, evidence validation, and Power BI reporting.
-* AI Governance Risk Framework
+* ⁠AI Governance Risk Framework
     Governance and risk framework for identifying, evaluating, and managing AI-related enterprise risk.
 
 Governance Focus
