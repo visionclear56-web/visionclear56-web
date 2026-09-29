@@ -57,7 +57,7 @@ Microsoft Entra ID • Active Directory • PowerShell • JML • RBAC • SSO 
 
 🛡️ GOVERNANCE & ASSURANCE
 
-Identity governance, access assurance, risk analysis, control validation, remediation, and AI governance operations across the enterprise environment.
+Identity governance, access assurance, risk analysis, control validation, and remediation across the enterprise environment.
 
 Featured Projects
 
@@ -78,7 +78,7 @@ Featured Projects
 
 Governance Focus
 
-IGA • RBAC • Access Reviews • Entitlement Analysis • SoD • JML Governance • ITGC • Control Testing • Audit Evidence • Remediation Validation • NIST • AI Governance • AI Assurance • Post-Deployment Monitoring • ServiceNow
+IGA • RBAC • Access Reviews • Entitlement Analysis • SoD • JML Governance • ITGC • Control Testing • Audit Evidence • Remediation Validation • NIST • AI Governance
 
 ⸻
 
@@ -108,7 +108,7 @@ CIAM • Authentication Journeys • Business Requirements • Process Analysis 
 
 🗺️ ROADMAP
 
-QualityCorp will continue to expand as new enterprise identity and governance problems are introduced and solved.
+QualityCorp will continue to expand as new enterprise identity problems are introduced and solved.
 
 Current and developing capabilities include:
 
@@ -165,7 +165,7 @@ CompTIA Security+ • AWS Certified Cloud Practitioner • Microsoft Azure Funda
 
 Continuing to expand the QualityCorp environment while deepening hands-on capability across:
 
-IAM Engineering • Microsoft Entra • PowerShell • Microsoft Graph • APIs • Python • Terraform • CIAM • Business Intelligence • Cloud Identity • AI Governance & Assurance • AI/Agent Identity
+IAM Engineering • Microsoft Entra • PowerShell • Microsoft Graph • APIs • Python • Terraform • CIAM • Business Intelligence • Cloud Identity • AI/Agent Identity
 
 ⸻
 
